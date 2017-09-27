@@ -4,5 +4,8 @@
 
 ### This is the second slide
 
+---
 
---- ?image=tolstoy.jpg
+![Book Title](tolstoy.jpg)
+
+
