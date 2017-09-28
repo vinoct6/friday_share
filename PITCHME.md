@@ -1,4 +1,4 @@
-### My name is Vinoth Kumar
+My full name is **Vinoth Kumar**
 
 ---
 
@@ -6,27 +6,26 @@
 
 ---
 
-#### I grew up near a small town in Ooty 
-#### Family
+* **I grew in a small town near Ooty** 
+* **Family**
 
 ---
 ##### 2004 to 2008
 ![College](cit.jpg)
 
 ---
-##### Dabbler - Technology - Science - Literature to some extent
+##### Interests
+###### Technology, Science and literature.
 
 ---
 
-#### I love books and I like to read
-
-##### Books on my table yesterday
+##### Books
 
 ![Books](books.jpg)
 
 ---
 
-### Five Books that have impacted my life 
+#### Five Books 
 
 ---
 
@@ -40,7 +39,7 @@
 
 --- 
 
-![1984](p2.jpg)
+![1984](p31.jpg)
 
 
 
