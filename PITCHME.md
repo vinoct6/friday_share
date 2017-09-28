@@ -31,11 +31,13 @@ My full name is **Vinoth Kumar**
 ![1984](1984v2.jpeg)
 ----
 
-![1984](p1.jpg)
+![1984vsBnw1](p1.jpg)
 
 --- 
 
-![1984](p31.jpg)
+![1984vsBnw2](p31.jpg)
+
+---
 
 
 
