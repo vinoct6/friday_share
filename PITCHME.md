@@ -29,11 +29,16 @@ My full name is **Vinoth Kumar**
 
 ---
 
-![F451](farenheit.png)
-
-##### 1984 and Brave New World
+![bnw](bnw.jpg)
+![1984](1984.jpg)
 
 ---
+
+![F451](farenheit.png)
+
+
+
+----
 
 ![1984](p1.jpg)
 
