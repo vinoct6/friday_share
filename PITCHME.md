@@ -14,8 +14,8 @@ My full name is **Vinoth Kumar**
 ![College](cit.jpg)
 
 ---
-##### Interests
-###### Technology, Science and literature.
+
+##### Technology, Science and literature.
 
 ---
 
@@ -28,16 +28,7 @@ My full name is **Vinoth Kumar**
 #### Five Books 
 
 ---
-
-![bnw](bnw.jpg)
-![1984](1984.jpg)
-
----
-
-![F451](farenheit.png)
-
-
-
+![1984](1984v2.jpeg)
 ----
 
 ![1984](p1.jpg)
