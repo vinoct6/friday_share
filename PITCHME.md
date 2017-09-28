@@ -9,8 +9,7 @@ My full name is **Vinoth Kumar**
 * **I grew in a small town near Ooty** 
 * **Family**
 
----
-![Wife](wife.jpeg)
+---?image=wife.jpeg&size=auto 0%
 
 ---
 ##### 2004 to 2008
