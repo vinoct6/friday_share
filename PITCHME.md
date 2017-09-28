@@ -37,13 +37,14 @@ My full name is **Vinoth Kumar**
 
 ![p1](p1.jpg)
 
-----
+---
 
 ![cosmos](cosmos.jpg)
 
 ---
 
 ![meaning](meaning.jpg)
+
 
 ---?image=sapiens.jpg&size=auto 70%
 
