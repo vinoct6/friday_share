@@ -30,10 +30,6 @@ My full name is **Vinoth Kumar**
 ---?image=1984.jpg&size=auto 70%
 
 ---
-![1984](1984v2.jpeg)
-
----
-
 
 ![1984vsBnw2](p31.jpg)
 
