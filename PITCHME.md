@@ -10,6 +10,9 @@ My full name is **Vinoth Kumar**
 * **Family**
 
 ---
+![Wife](wife.jpeg)
+
+---
 ##### 2004 to 2008
 ![College](cit.jpg)
 
