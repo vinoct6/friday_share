@@ -27,8 +27,8 @@ My full name is **Vinoth Kumar**
 
 ### Five Books 
 
----?image=1984.jpg&size=auto 50%
-hello here
+---?image=1984.jpg&size=auto 70%
+
 ---
 ![1984](1984v2.jpeg)
 
