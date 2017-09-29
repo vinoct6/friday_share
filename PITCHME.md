@@ -7,7 +7,7 @@ My full name is **Vinoth Kumar**
 ---
 
 * **I grew in a small town near Ooty** 
-* **Family**
+
 
 ---
 ##### 2004 to 2008
